@@ -43,11 +43,9 @@ h1 {
 	text-align: center;
 }
 
-.mi_foto {
-	height: 330px;
-}
 
 .leftimg {
 	float:left; /* Выравнивание по левому краю */
     margin: 0px 15px 7px 0; /* Отступы вокруг картинки */
+    height: 330px;
 }

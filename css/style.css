@@ -5,6 +5,7 @@ box-sizing: border-box;
 body {
 	width:100%;
 	background-size: 100%;
+	font-size: 16px;
 }
 
 .menu {
@@ -36,4 +37,17 @@ body {
 
 .info {
 	text-align: center;
+}
+
+h1 {
+	text-align: center;
+}
+
+.mi_foto {
+	height: 330px;
+}
+
+.leftimg {
+	float:left; /* Выравнивание по левому краю */
+    margin: 0px 15px 7px 0; /* Отступы вокруг картинки */
 }

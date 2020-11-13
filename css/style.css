@@ -49,3 +49,9 @@ h1 {
     height: 330px;
     width: 183px;
 }
+
+.img {
+	height: 480px;
+	width: 350px;
+	margin-top: 15px;
+}
